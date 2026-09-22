@@ -1,1 +1,1 @@
-# Store_rating_map
+# Store_rating_app
