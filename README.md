@@ -10,6 +10,7 @@ A full-stack web application for store rating management with role-based access 
 
 ### Admin Dashboard
 ![Admin Dashboard](images/admin-dashboard.png)
+![Dashboard Features](images/Dashboard_features.png)
 *Admin interface showing statistics, user management, and store management*
 
 ### User Dashboard - Store Browsing
