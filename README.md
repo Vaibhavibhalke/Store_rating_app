@@ -17,13 +17,7 @@ A full-stack web application for store rating management with role-based access 
 *Store listing with search functionality and rating options*
 
 ### Store Owner Dashboard
-![Store Owner Dashboard](images/store-owner-dashboard.png)
-*Store owner interface showing ratings and user feedback*
-
-## Architecture Diagram
-
-![Architecture Diagram](images/architecture.png)
-*System architecture showing frontend, backend, and database components*
+Store owner interface showing ratings and user feedback*
 
 ## Tech Stack
 
