@@ -94,7 +94,7 @@ DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=your_password
 DB_NAME=store_rating_app
-JWT_SECRET=your_jwt_secret_key_change_this_in_production
+JWT_SECRET=your_jwt_secret_key
 ```
 
 4. Start the backend server:
@@ -267,42 +267,4 @@ store-rating-app/
    - View user ratings
    - Update password
 
-## Security Notes
-
-- Change the default JWT_SECRET in production
-- Use environment variables for sensitive data
-- Implement HTTPS in production
-- Add rate limiting for API endpoints
-- Implement CSRF protection
-- Add input sanitization for production
-
-## Future Enhancements
-
-- Email notifications
-- Password reset functionality
-- Store images
-- Advanced analytics
-- Export functionality
-- Multi-language support
-- Mobile app
-
-## Adding Screenshots
-
-To add screenshots to the README:
-
-1. Create an `images` directory in the project root:
-```bash
-mkdir images
-```
-
-2. Add the following screenshots:
-   - `login.png` - Login page screenshot
-   - `admin-dashboard.png` - Admin dashboard screenshot
-   - `user-dashboard.png` - User store browsing screenshot
-   - `store-owner-dashboard.png` - Store owner dashboard screenshot
-   - `architecture.png` - System architecture diagram
-
-3. Take screenshots of the application at 1200x800 resolution for best quality
-
-4. Place images in the `images/` directory and they will automatically appear in the README
 
